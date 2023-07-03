@@ -1,0 +1,10 @@
+{
+    "name": "resume",
+    "description": "Basic JSON resume rendering script -- Not compatible with JSON Resume schema.",
+    "version": "0.0.0",
+    "author": "Jiab77",
+    "private": "true",
+    "dependencies": {
+        "docx": "^8.2.0"
+    }
+}
