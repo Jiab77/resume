@@ -22,138 +22,138 @@ The current schema is __similar but not compatible__ with the [JSON Resume schem
 
 ```json
 {
-    "meta": {
-        "theme": "default"
+  "meta": {
+    "theme": "default"
+  },
+  "basics": {
+    "name": "Jiab77",
+    "label": "System / Web / Network / Security",
+    "image": "",
+    "email": "REDACTED",
+    "phone": "REDACTED",
+    "url": "https://jiab77.github.io",
+    "summary": "Ethical hacking, development and security research",
+    "location": {
+      "address": "REDACTED",
+      "postalCode": "REDACTED",
+      "city": "REDACTED",
+      "countryCode": "REDACTED",
+      "region": "REDACTED"
     },
-    "basics": {
-        "name": "Jiab77",
-        "label": "System / Web / Network / Security",
-        "image": "",
-        "email": "REDACTED",
-        "phone": "REDACTED",
-        "url": "https://jiab77.github.io",
-        "summary": "Ethical hacking, development and security research",
-        "location": {
-            "address": "REDACTED",
-            "postalCode": "REDACTED",
-            "city": "REDACTED",
-            "countryCode": "REDACTED",
-            "region": "REDACTED"
-        },
-        "profiles": [
-            {
-                "network": "Twitter",
-                "username": "Jiab77",
-                "url": "https://twitter.com/jiab77"
-            },
-            {
-                "network": "GitHub",
-                "username": "Jiab77",
-                "url": "https://github.com/jiab77"
-            }
-        ]
-    },
-    "status": {
-        "dob": "REDACTED",
-        "nationality": "French",
-        "life": "REDACTED",
-        "paper": "REDACTED"
-    },
-    "sections": [
-        {
-            "title": "Professional Experience",
-            "entries": [
-                {
-                    "company": "",
-                    "position": "",
-                    "location": "",
-                    "range": {
-                        "start": "",
-                        "end": ""
-                    },
-                    "activities": [
-                        {
-                            "domain": "",
-                            "tasks": []
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Other Experiences",
-            "entries": [
-                {
-                    "company": "",
-                    "position": "",
-                    "location": "",
-                    "range": {
-                        "start": "",
-                        "end": ""
-                    },
-                    "activities": [
-                        {
-                            "domain": "",
-                            "tasks": []
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Certifications",
-            "entries": [
-                {
-                    "date": "",
-                    "name": ""
-                }
-            ]
-        },
-        {
-            "title": "Exams",
-            "entries": [
-                {
-                    "date": "",
-                    "name": ""
-                }
-            ]
-        },
-        {
-            "title": "Languages",
-            "entries": [
-                {
-                    "name": "English",
-                    "level": "Level B2"
-                },
-                {
-                    "name": "French",
-                    "level": "Native language"
-                }
-            ]
-        },
-        {
-            "title": "Technical Skills",
-            "entries": [
-                {
-                    "domain": "",
-                    "activities": [
-                        {
-                            "name": "",
-                            "description": ""
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Interests",
-            "entries": [
-                {
-                    "name": ""
-                }
-            ]
-        }
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "Jiab77",
+        "url": "https://twitter.com/jiab77"
+      },
+      {
+        "network": "GitHub",
+        "username": "Jiab77",
+        "url": "https://github.com/jiab77"
+      }
     ]
+  },
+  "status": {
+      "dob": "REDACTED",
+      "nationality": "French",
+      "life": "REDACTED",
+      "paper": "REDACTED"
+  },
+  "sections": [
+    {
+      "title": "Professional Experience",
+      "entries": [
+        {
+          "company": "",
+          "position": "",
+          "location": "",
+          "range": {
+            "start": "",
+            "end": ""
+          },
+          "activities": [
+            {
+              "domain": "",
+              "tasks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Other Experiences",
+      "entries": [
+        {
+          "company": "",
+          "position": "",
+          "location": "",
+          "range": {
+            "start": "",
+            "end": ""
+          },
+          "activities": [
+            {
+              "domain": "",
+              "tasks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Certifications",
+      "entries": [
+        {
+          "date": "",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "title": "Exams",
+      "entries": [
+        {
+          "date": "",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "title": "Languages",
+      "entries": [
+        {
+          "name": "English",
+          "level": "Level B2"
+        },
+        {
+          "name": "French",
+          "level": "Native language"
+        }
+      ]
+    },
+    {
+      "title": "Technical Skills",
+      "entries": [
+        {
+          "domain": "",
+          "activities": [
+            {
+              "name": "",
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Interests",
+      "entries": [
+        {
+          "name": ""
+        }
+      ]
+    }
+  ]
 }
 ```
 
